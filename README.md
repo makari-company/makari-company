@@ -1,16 +1,23 @@
-### Hi there 👋
+### Make Waves, Sea Change.
 
-<!--
-**makari-company/makari-company** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Many businesses have to choose between profits and ocean preservation.
 
-Here are some ideas to get you started:
+But, why can’t we have both?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Makari connects ocean-conscious investors, innovators, and businesses on a shared platform.
+
+By connecting investors to opportunities, innovators to funding and buyers, and businesses to ocean-friendly solutions, our triple-win, profit-sharing solution perpetuates value creation for stakeholders and meaningful contributions to the ocean’s well-being.
+
+### Join Makari if you are
+
+🌊 An ocean-conscious investor seeking sustainable, profitable ventures. 
+
+🌊 An innovator making a positive impact on the ocean, searching for funding and visibility. 
+
+🌊 A modern business sourcing ocean-friendly, cost-effective solutions.
+
+### Want to learn more?
+
+Contact [jackson@makari.company](mailto:jackson@makari.company)
+
+
