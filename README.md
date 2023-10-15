@@ -20,7 +20,5 @@ By connecting investors to opportunities, innovators to funding and buyers, and 
 
 Contact [jackson@makari.company](mailto:jackson@makari.company)
 
-*Checkout [AI Exploration](https://github.com/jacksonmccluskey/AI-Exploration) & [Product Manager](https://github.com/jacksonmccluskey/Product-Manager)*
-
 
 
